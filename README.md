@@ -1,5 +1,7 @@
 
  to add from CLI
+ 
+ 
 php artisan tinker
 $product = new App\models\product;
 $product->name="BMW";
